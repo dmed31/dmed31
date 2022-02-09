@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### **Hi! I'm Dhatri** - a sophomore studying Networked and Social Systems Engineering at the University of Pennsylvania. My major sounds like a jumble of words so here's a quick breakdown of what's involved: computer science, math, econ, and data science. It's really interesting, and I'm always down to talk about it:)
+### Hi! I'm Dhatri - a sophomore studying Networked and Social Systems Engineering at the University of Pennsylvania. My major sounds like a jumble of words so here's a quick breakdown of what's involved: computer science, math, econ, and data science. It's really interesting, and I'm always down to talk about it:)
 
 ### **Outside of School:**
     - I'm currently learning about software development through a club called Penn Spark:)
