@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**dmed31/dmed31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Dhatri - a sophomore studying Networked and Social Systems Engineering at the University of Pennsylvania. My major sounds like a jumble of words so here's a quick breakdown of what's involved: computer science, math, econ, and data science. It's really interesting, and I'm always down to talk about it:)
 
-Here are some ideas to get you started:
+Outside of School:
+    - I'm currently learning about software development through a club called Penn Spark:)
+    - I'm part of a business frat called Phi Chi Theta and serve as a wellness chair with my friend Lauren!
+    - I write for an online magazine called HerCampus! Check out some of my writing here: https://www.hercampus.com/author/dhatri-medarametla/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I enjoy:
+    - Ariana Grande/Taylor Swift - but please give me new music recs
+    - ice cream:) My favorite flavor is birthday cake, but I'm always looking for new ones to try!
+    - Exploring philly 
+    - Amateur cooking
+    - Rom-Coms
+    - Puzzles/reading <3
+    - the color periwinkle
+
+Feel free to reach me at email dhatrim@seas.upenn.edu! Always down to chat about whatever:)
