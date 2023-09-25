@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Hi! I'm Dhatri - a junior studying Networked and Social Systems Engineering at the University of Pennsylvania. My major sounds like a jumble of words so here's a quick breakdown of what's involved: 
+#### Hi! I'm Dhatri - a senior studying Networked and Social Systems Engineering at the University of Pennsylvania. My major sounds like a jumble of words so here's a quick breakdown of what's involved: 
 
     - computer science
     - math
