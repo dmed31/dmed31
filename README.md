@@ -12,8 +12,8 @@ It's really interesting, and I'm always down to talk about it:)
 #### **Outside of School:**
     - I'm currently learning about software development through a club called Penn Spark:)
     - I'm part of a business frat called Phi Chi Theta and serve as a wellness chair with my friend Lauren!
-    - I write for an online magazine called HerCampus! Check out some of my writing here: https://www.hercampus.com/author/dhatri-medarametla/
-
+    - I work part-time as a TA for a class called NETS 2120: Scalable and Cloud Computing & worked as a TA for CIS 5210: Artificial Intelligence last semester.
+    
 #### **Things I enjoy:**
     - Ariana Grande/Taylor Swift - but please give me new music recs
     - ice cream:) My favorite flavor is birthday cake, but I'm always looking for new ones to try!
