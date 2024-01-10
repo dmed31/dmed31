@@ -12,7 +12,8 @@ It's really interesting, and I'm always down to talk about it:)
 #### **Outside of School:**
     - I'm currently learning about software development through a club called Penn Spark:)
     - I'm part of a business frat called Phi Chi Theta and serve as a wellness chair with my friend Lauren!
-    - I work part-time as a TA for a class called NETS 2120: Scalable and Cloud Computing & worked as a TA for CIS 5210: Artificial Intelligence last semester.
+    - I work part-time as a TA for a class called NETS 2120: Scalable and Cloud Computing & worked as a TA for 
+    CIS 5210: Artificial Intelligence last semester.
     
 #### **Things I enjoy:**
     - Ariana Grande/Taylor Swift - but please give me new music recs
