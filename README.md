@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi! I'm Dhatri 👋
 
-#### Hi! I'm Dhatri - a software engineer. I just graduated from UPenn with a degree in  Networked and Social Systems Engineering. If you're interested, check out some of my pinned projects/my own repositories. I have experience coding in Python, Java, Ruby, R, SQL, C# and GraphQL, but I'm always ready to learn something new :)
+#### I'm a software engineer who recently graduated from UPenn with a degree in [Networked and Social Systems Engineering](https://www.nets.upenn.edu/). 
+
+If you're interested, check out some of my pinned projects below or [my own repositories](https://github.com/dmed31?tab=repositories). I have experience coding in **Python, Java, Ruby, R, SQL, C# and GraphQL**, but I'm always ready to learn something new :)
     
 #### **Some Things I Did in College:**
     - Learned about software development through a club called Penn Spark:)
